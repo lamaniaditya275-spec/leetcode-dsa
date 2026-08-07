@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0383-ransom-note) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -80,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
