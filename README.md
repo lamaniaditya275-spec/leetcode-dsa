@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0877-stone-game) |
+| [3024-type-of-triangle](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3024-type-of-triangle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3024-type-of-triangle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0169-majority-element) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
