@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0383-ransom-note) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
