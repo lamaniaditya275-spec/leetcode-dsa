@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
 | ------- |
@@ -165,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3024-type-of-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
