@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0877-stone-game) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0383-ransom-note) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
