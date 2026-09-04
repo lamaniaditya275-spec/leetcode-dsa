@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
