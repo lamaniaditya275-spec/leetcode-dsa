@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0877-stone-game) |
