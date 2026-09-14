@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0326-power-of-three) |
+| [0836-rectangle-overlap](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0877-stone-game) |
 | [3024-type-of-triangle](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
