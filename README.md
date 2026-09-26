@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 ## Geometry
 |  |
 | ------- |
