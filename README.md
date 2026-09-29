@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1669-merge-in-between-linked-lists) |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0836-rectangle-overlap) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
