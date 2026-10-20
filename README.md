@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3024-type-of-triangle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2683-neighboring-bitwise-xor](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2683-neighboring-bitwise-xor) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lamaniaditya275-spec/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String Matching
 |  |
 | ------- |
